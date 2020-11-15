@@ -1,0 +1,533 @@
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.exe
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.deps.json
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.runtimeconfig.json
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.runtimeconfig.dev.json
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\staticwebassets\VatanAPI.StaticWebAssets.Manifest.cache
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\staticwebassets\VatanAPI.StaticWebAssets.xml
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.AssemblyInfoInputs.cache
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.AssemblyInfo.cs
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.RazorTargetAssemblyInfo.cache
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.csproj.CopyComplete
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.csprojAssemblyReference.cache
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.pdb
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.dll
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.pdb
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.genruntimeconfig.cache
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.exe
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.deps.json
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.runtimeconfig.json
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.runtimeconfig.dev.json
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.pdb
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.csprojAssemblyReference.cache
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\staticwebassets\VatanAPI.StaticWebAssets.Manifest.cache
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\staticwebassets\VatanAPI.StaticWebAssets.xml
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.AssemblyInfoInputs.cache
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.AssemblyInfo.cs
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.RazorTargetAssemblyInfo.cache
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.csproj.CopyComplete
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.dll
+C:\Users\YusufAKDENİZ\Source\Repos\SytronXar\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.pdb
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.exe
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.deps.json
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.runtimeconfig.json
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.runtimeconfig.dev.json
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\VatanAPI.pdb
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.csprojAssemblyReference.cache
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.csproj.CoreCompileInputs.cache
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.AssemblyInfoInputs.cache
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.AssemblyInfo.cs
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.csproj.CopyComplete
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\staticwebassets\VatanAPI.StaticWebAssets.Manifest.cache
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\staticwebassets\VatanAPI.StaticWebAssets.xml
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.dll
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.pdb
+C:\Users\Emre AYDEMİR\Desktop\ApiCalismasi-master\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.genruntimeconfig.cache
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\ApiCalismasi\VatanAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.csproj.CoreCompileInputs.cache
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\ApiCalismasi\VatanAPI\obj\Debug\netcoreapp3.1\VatanAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\VatanAPI.exe
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\VatanAPI.deps.json
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\VatanAPI.runtimeconfig.json
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\VatanAPI.runtimeconfig.dev.json
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\VatanAPI.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\VatanAPI.pdb
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\ApiCalismasi\VatanAPI_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\VatanAPI.AssemblyInfoInputs.cache
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\VatanAPI.AssemblyInfo.cs
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\VatanAPI.RazorTargetAssemblyInfo.cache
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\VatanAPI.csproj.CopyComplete
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\staticwebassets\VatanAPI.StaticWebAssets.Manifest.cache
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\staticwebassets\VatanAPI.StaticWebAssets.xml
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\VatanAPI.dll
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\VatanAPI.pdb
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\VatanAPI.genruntimeconfig.cache
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\VatanAPI.csprojAssemblyReference.cache
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\VatanAPI.csproj.CoreCompileInputs.cache
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\VatanAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\VatanAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\ApiCalismasi\VatanAPI_SQL\obj\Debug\netcoreapp3.1\scopedcss\bundle\VatanAPI.styles.css
